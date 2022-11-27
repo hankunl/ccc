@@ -26,6 +26,7 @@ public class DeserializeDemo {
         System.out.println("333333");
         System.out.println("44444");
         System.out.println("5");
+        System.out.println("6");
         System.out.println("Deserialized Employee...");
         System.out.println("Name: " + e.name);
         System.out.println("Address: " + e.address);
