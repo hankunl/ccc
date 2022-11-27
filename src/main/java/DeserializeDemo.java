@@ -21,6 +21,7 @@ public class DeserializeDemo {
             c.printStackTrace();
             return;
         }
+        System.out.println(",,,,,");
         System.out.println("Deserialized Employee...");
         System.out.println("Name: " + e.name);
         System.out.println("Address: " + e.address);
