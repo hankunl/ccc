@@ -12,6 +12,7 @@ public class DeserializeDemo {
             fileIn.close(); //IO流关闭
         }catch(IOException i)
         {
+
             i.printStackTrace();
             return;
         }catch(ClassNotFoundException c)
